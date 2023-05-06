@@ -1,10 +1,10 @@
-import 'package:android_tool/page/common/app.dart';
-import 'package:android_tool/page/common/base_view_model.dart';
-import 'package:android_tool/page/common/key_code.dart';
-import 'package:android_tool/page/common/package_help_mixin.dart';
-import 'package:android_tool/widget/input_dialog.dart';
-import 'package:android_tool/widget/list_filter_dialog.dart';
-import 'package:android_tool/widget/remote_control_dialog.dart';
+import 'package:tools/page/common/app.dart';
+import 'package:tools/page/common/base_view_model.dart';
+import 'package:tools/page/common/key_code.dart';
+import 'package:tools/page/common/package_help_mixin.dart';
+import 'package:tools/widget/input_dialog.dart';
+import 'package:tools/widget/list_filter_dialog.dart';
+import 'package:tools/widget/remote_control_dialog.dart';
 import 'package:desktop_drop/desktop_drop.dart';
 import 'package:file_selector/file_selector.dart';
 import 'package:flutter/material.dart';
